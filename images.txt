@@ -1,3 +1,4 @@
 --platform=linux/arm64 apache/skywalking-oap-server:9.7.0
 --platform=linux/arm64 apache/skywalking-ui:9.7.0
 --platform=linux/arm64 elasticsearch:7.17.20
+zookeeper:3.9.2
