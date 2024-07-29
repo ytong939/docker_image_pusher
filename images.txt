@@ -3,6 +3,7 @@
 #--platform=linux/arm64 elasticsearch:7.17.20
 #zookeeper:3.9.2
 #--platform=linux/arm64 kibana:7.17.20
-apache/skywalking-oap-server:9.7.0
-apache/skywalking-ui:9.7.0
-elasticsearch:7.17.22
+#apache/skywalking-oap-server:9.7.0
+#apache/skywalking-ui:9.7.0
+#elasticsearch:7.17.22
+--platform=linux/arm64/v8 ubuntu/squid:6.6-24.04_beta
