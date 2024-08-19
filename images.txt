@@ -6,4 +6,5 @@
 #apache/skywalking-oap-server:9.7.0
 #apache/skywalking-ui:9.7.0
 #elasticsearch:7.17.22
---platform=linux/arm64/v8 ubuntu/squid:6.6-24.04_beta
+#--platform=linux/arm64/v8 ubuntu/squid:6.6-24.04_beta
+-platform=linux/amd64 php:8.3.11RC1-cli-alpine3.20
