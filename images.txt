@@ -8,4 +8,4 @@
 #elasticsearch:7.17.22
 #--platform=linux/arm64/v8 ubuntu/squid:6.6-24.04_beta
 #--platform=linux/amd64 php:8.2-rc-fpm-alpine
-zabbix-server-mysql:7.0-ol-latest
+zabbix/zabbix-server-mysql:7.0-ol-latest
