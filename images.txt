@@ -10,4 +10,5 @@
 #--platform=linux/amd64 php:8.2-rc-fpm-alpine
 #zabbix/zabbix-server-mysql:7.0-ol-latest
 #zabbix/zabbix-web-nginx-mysql:7.0-ol-latest
-zabbix/zabbix-web-nginx-mysql:5.0.34-ol
+#zabbix/zabbix-web-nginx-mysql:5.0.34-ol
+zabbix/zabbix-server-mysql:5.0.34-ol
