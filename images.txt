@@ -12,3 +12,4 @@
 #zabbix/zabbix-web-nginx-mysql:7.0-ol-latest
 #zabbix/zabbix-web-nginx-mysql:5.0.34-ol
 zabbix/zabbix-server-mysql:5.0.34-ol
+zabbix/zabbix-agent:7.0.3-ol
