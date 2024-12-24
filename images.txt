@@ -13,4 +13,5 @@
 #zabbix/zabbix-web-nginx-mysql:5.0.34-ol
 #zabbix/zabbix-server-mysql:5.0.34-ol
 #zabbix/zabbix-agent:7.0.3-ol
-zabbix/zabbix-agent2:7.0.6-ol
+#zabbix/zabbix-agent2:7.0.6-ol
+--platform=linux/amd64 zabbix/zabbix-agent2:7.0.6-ol
