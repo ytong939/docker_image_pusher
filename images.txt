@@ -17,5 +17,5 @@
 #--platform=linux/arm64 zabbix/zabbix-agent2:7.0.6-ol
 #openjdk:8
 #cc2c/app-env:v1.0
-apache/skywalking-oap-server:10.2.0
-apache/skywalking-ui:10.2.0
+apache/skywalking-oap-server:latest
+apache/skywalking-ui:latest
