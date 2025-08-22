@@ -19,3 +19,4 @@
 #cc2c/app-env:v1.0
 apache/skywalking-oap-server:latest
 apache/skywalking-ui:latest
+mysql:8.3.0
