@@ -1,3 +1,4 @@
+
 #--platform=linux/arm64 apache/skywalking-oap-server:9.7.0
 #--platform=linux/arm64 apache/skywalking-ui:9.7.0
 #--platform=linux/arm64 elasticsearch:7.17.20
@@ -17,6 +18,8 @@
 #--platform=linux/arm64 zabbix/zabbix-agent2:7.0.6-ol
 #openjdk:8
 #cc2c/app-env:v1.0
-apache/skywalking-oap-server:latest
-apache/skywalking-ui:latest
-mysql:8.3.0
+#apache/skywalking-oap-server:latest
+#apache/skywalking-ui:latest
+#mysql:8.3.0
+--platform=linux/arm64 zabbix/zabbix-web-nginx-mysql:5.0-ol-latest
+--platform=linux/arm64 zabbix/zabbix-server-mysql:5.0-ol-latest
