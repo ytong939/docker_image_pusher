@@ -23,4 +23,4 @@
 #mysql:8.3.0
 #--platform=linux/arm64 zabbix/zabbix-web-nginx-mysql:5.0-ol-latest
 #--platform=linux/arm64 zabbix/zabbix-server-mysql:5.0-ol-latest
- openjdk:8u342-jdk
+openeuler/bisheng-jdk:1.8.0-oe2203sp3
