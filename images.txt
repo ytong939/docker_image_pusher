@@ -26,5 +26,7 @@
 #oceanbase/oceanbase-ce:4.2.5-lts
 #--platform=linux/arm64/v8 nacos/nacos-server:v2.5.2
 #--platform=linux/arm64/v8 redis:6.2.21
---platform=linux/arm64/v8 openjdk:8u342
---platform=linux/arm64/v8 tomcat:9.0-jdk8-corretto
+#--platform=linux/arm64/v8 openjdk:8u342
+#--platform=linux/arm64/v8 tomcat:9.0-jdk8-corretto
+rabbitmq:4.2.2-management
+--platform=linux/arm64/v8 rabbitmq:4.2.2-management
