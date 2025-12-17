@@ -16,7 +16,6 @@
 #zabbix/zabbix-agent:7.0.3-ol
 #zabbix/zabbix-agent2:7.0.6-ol
 #--platform=linux/arm64 zabbix/zabbix-agent2:7.0.6-ol
-#openjdk:8
 #cc2c/app-env:v1.0
 #apache/skywalking-oap-server:latest
 #apache/skywalking-ui:latest
@@ -24,5 +23,8 @@
 #--platform=linux/arm64 zabbix/zabbix-web-nginx-mysql:5.0-ol-latest
 #--platform=linux/arm64 zabbix/zabbix-server-mysql:5.0-ol-latest
 #openeuler/bisheng-jdk:1.8.0-oe2203sp3
-oceanbase/oceanbase-ce:4.2.5-lts
-nacos/nacos-server:v2.5.2
+#oceanbase/oceanbase-ce:4.2.5-lts
+--platform=linux/arm64/v8 nacos/nacos-server:v2.5.2
+--platform=linux/arm64/v8 openjdk:8
+--platform=linux/arm64/v8 redis:6.2.21
+
