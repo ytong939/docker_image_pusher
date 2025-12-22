@@ -30,5 +30,5 @@
 #--platform=linux/arm64/v8 tomcat:9.0-jdk8-corretto
 #rabbitmq:4.2.2-management
 #--platform=linux/arm64/v8 openjdk:8u342-jdk-slim
-#openjdk:8u342-jdk-slim
-redis:6.2.21
+openjdk:8u342-jdk-slim
+#redis:6.2.21
