@@ -31,4 +31,5 @@
 #rabbitmq:4.2.2-management
 #--platform=linux/arm64/v8 openjdk:8u342-jdk-slim
 #openjdk:8u342-jdk-slim
-redis:8.4.0
+#redis:8.4.0
+busybox:1.28.4
