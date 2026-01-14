@@ -32,4 +32,4 @@
 #--platform=linux/arm64/v8 openjdk:8u342-jdk-slim
 #openjdk:8u342-jdk-slim
 #redis:8.4.0
-busybox:1.37
+busybox:1.37-musl
