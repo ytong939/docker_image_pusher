@@ -24,7 +24,7 @@
 #--platform=linux/arm64 zabbix/zabbix-server-mysql:5.0-ol-latest
 #openeuler/bisheng-jdk:1.8.0-oe2203sp3
 #oceanbase/oceanbase-ce:4.2.5-lts
-#--platform=linux/arm64/v8 nacos/nacos-server:v2.5.2
+nacos-server:v2.4.3
 #--platform=linux/arm64/v8 redis:6.2.21
 #--platform=linux/arm64/v8 openjdk:8u342
 #--platform=linux/arm64/v8 tomcat:9.0-jdk8-corretto
@@ -32,4 +32,4 @@
 #--platform=linux/arm64/v8 openjdk:8u342-jdk-slim
 #openjdk:8u342-jdk-slim
 #redis:8.4.0
-busybox:1.37-musl
+#busybox:1.37-musl
