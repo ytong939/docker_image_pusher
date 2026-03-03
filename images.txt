@@ -33,3 +33,4 @@ nacos/nacos-server:v2.4.3
 #openjdk:8u342-jdk-slim
 #redis:8.4.0
 #busybox:1.37-musl
+openjdk:21-ea-jdk
